@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PeterNguyenWebDev
-- 👀 I’m interested in becoming a full-stack developer...
-- 🌱 I’m currently learning web development, webdesign, and ux/ui. Mainly front-end at the moment.
+- 👀 I’m interested in becoming a front-end developer...
+- 🌱 I’m currently learning web development, webdesign, and ux/ui.
 - 📫 PeterNguyenWebDev@gmail.com
 
 <!---
