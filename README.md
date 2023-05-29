@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PeterNguyenWebDev
-- 👀 I’m interested in becoming a front-end developer...
-- 🌱 I’m currently learning web development, webdesign, and ux/ui.
+- 👀 I’m a Junior Front-End Developer...
 - 📫 PeterNguyenWebDev@gmail.com
 
 <!---
