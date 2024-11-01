@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PeterNguyenWebDev
+- 👋 Hi, I’m @PeterNDev
 - 👀 I’m a Junior Front-End Developer...
-- 📫 PeterNCoder@gmail.com
+- 📫 PeterNDev@gmail.com
 
 <!---
 PeterNguyenWebDev/PeterNguyenWebDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
